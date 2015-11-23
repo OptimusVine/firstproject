@@ -9,3 +9,5 @@ Requirements
 - When a user goes to the site, it will prompt for wines 
 - The user will enter data into a text box
 - An email will be generated to kjiel@clubw.com with the wine info and the data entered
+
+I have added and changed this file.
