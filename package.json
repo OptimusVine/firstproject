@@ -1,0 +1,14 @@
+{
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "a first attempt to create a basic understanding and integrate to PLM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PLM"
+  ],
+  "author": "KtotheJ",
+  "license": "ISC"
+}
